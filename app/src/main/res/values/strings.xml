@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">db_unit_tests</string>
+    <string name="add">add</string>
+    <string name="subtract">subtract</string>
+</resources>
